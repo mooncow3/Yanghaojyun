@@ -1,0 +1,12 @@
+<html>
+<link rel="stylesheet" href="aaa.css">
+<style>
+a:visited{color: mintcream;}
+#s2 span{color:red;}
+</style>
+    <body>
+        <div id="s1">你瞅啥，樣式設定</div>
+        <div id="s2"><span>醜八怪，樣式設定</span></div>
+        <a href="http://blog.ilc.edu.tw/blog/blog/8884/post/27663/150480">林犬來吸</a>
+    </body>
+</html>
